@@ -2,5 +2,5 @@
  layout : slide 
 title : " İkinci slaytımıza hoş geldiniz! "
 ---
-Metniniz 
+met  your  motheer
 Geri gitmek için sol oku kullanın!
